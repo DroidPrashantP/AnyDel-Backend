@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    style="@style/MatchParentWrapContent"
+    android:layout_margin="@dimen/dimen_8dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardElevation="@dimen/dimen_8dp"
+    app:cardCornerRadius="@dimen/dimen_8dp"
+    app:cardPreventCornerOverlap="true"
+    app:layout_constraintBottom_toTopOf="@+id/btn_packageInfo_nextBtn"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/cl_packageInfo_introLabel"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/mainContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/card_unselected_color"
+        android:padding="@dimen/dimen_8dp">
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/vertical_guideline"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.4" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_packageDetailScreen_packageId"
+            style="@style/ConstraintWrapStyle"
+            android:text="@string/package_id"
+            android:textAllCaps="true"
+            android:textColor="@color/primary_color"
+            android:textStyle="bold|italic"
+            app:layout_constraintEnd_toStartOf="@+id/vertical_guideline"
+            app:layout_constraintHorizontal_bias="0.3"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_packageDetailScreen_packageIdValue"
+            style="@style/ConstraintWrapStyle"
+            android:textColor="@color/secondary_color"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.7"
+            app:layout_constraintStart_toStartOf="@+id/vertical_guideline"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_packageDetailScreen_deliveryDateLabel"
+            style="@style/ConstraintWrapStyle"
+            android:layout_marginTop="@dimen/dimen_8dp"
+            android:text="@string/delivery_date_label"
+            android:textAllCaps="true"
+            android:textColor="@color/primary_color"
+            android:textStyle="bold|italic"
+            app:layout_constraintEnd_toStartOf="@+id/vertical_guideline"
+            app:layout_constraintHorizontal_bias="0.3"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_packageDetailScreen_packageId" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_packageDetailScreen_deliveryDateValue"
+            style="@style/ConstraintWrapStyle"
+            android:layout_marginTop="@dimen/dimen_8dp"
+            android:textColor="@color/text_secondary_color"
+            android:textStyle="bold|italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.7"
+            app:layout_constraintStart_toStartOf="@+id/vertical_guideline"
+            app:layout_constraintTop_toBottomOf="@+id/tv_packageDetailScreen_packageId" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_packageDetailScreen_deliveryTimeLabel"
+            style="@style/ConstraintWrapStyle"
+            android:layout_marginTop="@dimen/dimen_8dp"
+            android:text="@string/delivery_time_label"
+            android:textAllCaps="true"
+            android:textColor="@color/primary_color"
+            android:textStyle="bold|italic"
+            app:layout_constraintEnd_toStartOf="@+id/vertical_guideline"
+            app:layout_constraintHorizontal_bias="0.3"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_packageDetailScreen_deliveryDateLabel" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_packageDetailScreen_deliveryTimeValue"
+            style="@style/ConstraintWrapStyle"
+            android:layout_marginTop="@dimen/dimen_8dp"
+            android:textColor="@color/text_secondary_color"
+            android:textStyle="bold|italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.7"
+            app:layout_constraintStart_toStartOf="@+id/vertical_guideline"
+            app:layout_constraintTop_toBottomOf="@+id/tv_packageDetailScreen_deliveryDateLabel" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_packageDetailScreen_statusLabel"
+            style="@style/ConstraintWrapStyle"
+            android:layout_marginTop="@dimen/dimen_8dp"
+            android:text="@string/status_label"
+            android:textAllCaps="true"
+            android:textColor="@color/primary_color"
+            android:textStyle="bold|italic"
+            app:layout_constraintEnd_toStartOf="@+id/vertical_guideline"
+            app:layout_constraintHorizontal_bias="0.3"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_packageDetailScreen_deliveryTimeValue" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_packageDetailScreen_statusValue"
+            style="@style/ConstraintWrapStyle"
+            android:layout_marginTop="@dimen/dimen_8dp"
+            android:textColor="@color/text_secondary_color"
+            android:textStyle="bold|italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.7"
+            app:layout_constraintStart_toStartOf="@+id/vertical_guideline"
+            app:layout_constraintTop_toBottomOf="@+id/tv_packageDetailScreen_deliveryTimeValue" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

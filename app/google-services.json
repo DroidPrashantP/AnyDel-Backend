@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "588813185019",
+    "project_id": "adl-pushapi-test",
+    "storage_bucket": "adl-pushapi-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588813185019:android:5437319548e92ece29255e",
+        "android_client_info": {
+          "package_name": "com.quadvision.anydel.backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588813185019-j73jb9gimaj5vqe83ql9tctntcq3g8l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quadvision.anydel.backend",
+            "certificate_hash": "c638babf8b908610bd5193d95829aa0d316cf89a"
+          }
+        },
+        {
+          "client_id": "588813185019-oenhuigi6tfat1dim3ckrqq3mtn56m76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quadvision.anydel.backend",
+            "certificate_hash": "dc6fec8b0ea89cbbf518c234bb13dbd89bb1843e"
+          }
+        },
+        {
+          "client_id": "588813185019-80dlj5p38oaqhqie3ut8i7aje66a2vn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa-FSZd_cBrBQI6HqP7UrIaECmapp7f-w"
+        },
+        {
+          "current_key": "AIzaSyDeLLTO9NyvOtYJ8VJmAzY5uc4X1fffOqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588813185019-80dlj5p38oaqhqie3ut8i7aje66a2vn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588813185019:android:c2541ee7043547be29255e",
+        "android_client_info": {
+          "package_name": "com.quadvision.anydel.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588813185019-1sa5eihb3pj2p6vt82fvqsbre3pd1j14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quadvision.anydel.customer",
+            "certificate_hash": "04b749d3b13ba058afb3758470c21928d5088be5"
+          }
+        },
+        {
+          "client_id": "588813185019-u6rtnjudvb64lo03s2otvqn5gjq3ric4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quadvision.anydel.customer",
+            "certificate_hash": "c638babf8b908610bd5193d95829aa0d316cf89a"
+          }
+        },
+        {
+          "client_id": "588813185019-80dlj5p38oaqhqie3ut8i7aje66a2vn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa-FSZd_cBrBQI6HqP7UrIaECmapp7f-w"
+        },
+        {
+          "current_key": "AIzaSyDeLLTO9NyvOtYJ8VJmAzY5uc4X1fffOqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588813185019-80dlj5p38oaqhqie3ut8i7aje66a2vn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
