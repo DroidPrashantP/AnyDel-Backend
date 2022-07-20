@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout_loginScreen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <com.google.android.material.appbar.AppBarLayout
+        style="@style/MatchParentWrapContent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <include layout="@layout/action_bar_layout"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        style="@style/MatchParent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            style="@style/MatchParent"
+            android:paddingStart="@dimen/dimen_16dp"
+            android:paddingTop="@dimen/dimen_16dp"
+            android:paddingEnd="@dimen/dimen_16dp"
+            android:paddingBottom="@dimen/dimen_8dp"
+            tools:context=".ui.register.RegistrationActivity">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/tv_loginScreen_appLogo"
+                android:layout_width="@dimen/dimen_200dp"
+                android:layout_height="@dimen/dimen_60dp"
+                android:layout_marginTop="@dimen/dimen_8dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/ic_app_anydel_backend_logo"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_loginScreen_registrationLabel"
+                style="@style/ConstraintWrapStyle"
+                android:gravity="center"
+                android:padding="@dimen/dimen_8dp"
+                android:text="@string/login"
+                android:textColor="@color/primary_color"
+                android:shadowColor="@color/secondary_color"
+                android:textAllCaps="true"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:visibility="gone"
+                android:shadowRadius="4"
+                android:textSize="@dimen/dimen_20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tv_loginScreen_appLogo" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_loginScreen_enterLoginDetails"
+                style="@style/ConstraintWrapStyle"
+                android:gravity="center"
+                android:padding="@dimen/dimen_8dp"
+                android:shadowColor="@color/secondary_color"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="4"
+                android:textAllCaps="true"
+                android:textColor="@color/primary_color"
+                android:textSize="@dimen/dimen_18sp"
+                android:text="@string/enter_your_login_details"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tv_loginScreen_registrationLabel" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_loginScreen_emailMobileLabel"
+                style="@style/ConstraintWrapStyle"
+                android:layout_marginTop="@dimen/dimen_12dp"
+                android:text="@string/mobile_label"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="@dimen/dimen_16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tv_loginScreen_enterLoginDetails" />
+
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/edt_loginScreen_emailMobileField"
+                style="@style/EditTextStyleWithIgnoreSpace"
+                android:layout_marginTop="@dimen/dimen_8dp"
+                android:inputType="number"
+                android:hint="@string/mobile_hint"
+                android:textSize="@dimen/dimen_16sp"
+                android:maxLength="10"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tv_loginScreen_emailMobileLabel" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_loginScreen_passwordLabel"
+                style="@style/ConstraintWrapStyle"
+                android:layout_marginTop="@dimen/dimen_12dp"
+                android:text="@string/password_label"
+                android:textAllCaps="true"
+                android:textColor="@color/black"
+                android:textSize="@dimen/dimen_16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/edt_loginScreen_emailMobileField" />
+
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/edt_loginScreen_passwordField"
+                style="@style/EditTextStyleWithIgnoreSpace"
+                android:layout_marginTop="@dimen/dimen_8dp"
+                android:background="@drawable/edit_text_background_drawable"
+                android:gravity="center"
+                android:hint="@string/password_hint"
+                android:maxLength="6"
+                android:textSize="@dimen/dimen_16sp"
+                android:inputType="numberPassword"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tv_loginScreen_passwordLabel" />
+
+            <RadioGroup
+                android:id="@+id/rg_loginScreen_roleContainer"
+                style="@style/MatchParentWrapContent"
+                android:orientation="horizontal"
+                android:layout_marginTop="@dimen/dimen_16dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/edt_loginScreen_passwordField">
+
+                <androidx.appcompat.widget.AppCompatRadioButton
+                    android:id="@+id/rb_loginScreen_supervisor"
+                    style="@style/WrapContent"
+                    android:checked="true"
+                    android:text="@string/supervisor_label"/>
+
+                <androidx.appcompat.widget.AppCompatRadioButton
+                    android:id="@+id/rb_loginScreen_deliveryBoys"
+                    style="@style/WrapContent"
+                    android:layout_marginStart="@dimen/dimen_32dp"
+                    android:text="@string/delivery_boy"/>
+            </RadioGroup>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_loginScreen_login"
+                style="@style/ConstraintWrapStyle"
+                android:layout_marginTop="@dimen/dimen_24dp"
+                android:background="@drawable/btn_custom_bg_drawable"
+                android:text="@string/login"
+                android:enabled="true"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary_color"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/rg_loginScreen_roleContainer" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+    <include layout="@layout/progress_bar_layout"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

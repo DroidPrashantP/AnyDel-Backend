@@ -1,0 +1,361 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.quadvision.anydel.backend"
+4    android:versionCode="1"
+5    android:versionName="1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:5:5-79
+11-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:7:5-65
+13-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:7:22-62
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:8:5-80
+14-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:9:5-81
+15-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:10:5-67
+16-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:10:22-64
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:11:5-81
+17-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.CALL_PHONE" />
+18-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:12:5-69
+18-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:12:22-66
+19    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+19-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:23:5-68
+19-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:23:22-65
+20    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+20-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:25:5-82
+20-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:25:22-79
+21    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+21-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:26:5-110
+21-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:26:22-107
+22
+23    <application
+23-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:14:5-71:19
+24        android:name="com.quadvision.anydel.AnyDelBackendApplication"
+24-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:15:9-70
+25        android:allowBackup="true"
+25-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:16:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.7.0] /Users/prashantpatil/.gradle/caches/transforms-3/7a022d74dccddf2223c574f0fb846b3a/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+28-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:17:9-43
+29        android:label="@string/app_name"
+29-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:18:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:19:9-54
+31        android:supportsRtl="true"
+31-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:20:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.AnyDelBackend" >
+33-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:21:9-51
+34        <activity
+34-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:23:9-33:20
+35            android:name="com.quadvision.anydel.backend.LauncherActivity"
+35-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:24:13-45
+36            android:exported="true"
+36-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:25:13-36
+37            android:screenOrientation="portrait"
+37-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:26:13-49
+38            android:theme="@style/Theme.AnyDel.NoActionBar" >
+38-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:27:13-60
+39            <intent-filter>
+39-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:28:13-32:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:29:17-69
+40-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:29:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:31:17-77
+42-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:31:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:35:9-40:40
+46            android:name="com.quadvision.anydel.backend.ui.home.HomeActivity"
+46-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:36:13-49
+47            android:exported="false"
+47-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:40:13-37
+48            android:screenOrientation="portrait"
+48-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:38:13-49
+49            android:theme="@style/MaterialThemeNoActionBar"
+49-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:37:13-60
+50            android:windowSoftInputMode="adjustPan|adjustResize" />
+50-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:39:13-65
+51        <activity
+51-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:42:9-46:62
+52            android:name="com.quadvision.anydel.backend.ui.login.ui.login.LoginActivity"
+52-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:43:13-60
+53            android:label="@string/title_activity_login"
+53-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:44:13-57
+54            android:screenOrientation="portrait"
+54-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:45:13-49
+55            android:theme="@style/MaterialThemeNoActionBar" />
+55-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:46:13-60
+56        <activity
+56-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:48:9-51:59
+57            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+57-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:49:13-76
+58            android:screenOrientation="portrait"
+58-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:50:13-49
+59            android:theme="@style/Base.Theme.AppCompat" />
+59-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:51:13-56
+60
+61        <service
+61-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:53:9-59:19
+62            android:name="com.quadvision.anydel.backend.ui.firebase.MyFirebaseMessagingService"
+62-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:54:13-67
+63            android:exported="false" >
+63-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:55:13-37
+64            <intent-filter>
+64-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:56:13-58:29
+65                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+65-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:57:17-78
+65-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:57:25-75
+66            </intent-filter>
+67        </service>
+68
+69        <provider
+70            android:name="androidx.core.content.FileProvider"
+70-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:62:13-62
+71            android:authorities="com.quadvision.anydel.backend.provider"
+71-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:63:13-60
+72            android:exported="false"
+72-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:64:13-37
+73            android:grantUriPermissions="true" >
+73-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:65:13-47
+74            <meta-data
+74-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:66:13-68:58
+75                android:name="android.support.FILE_PROVIDER_PATHS"
+75-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:67:17-67
+76                android:resource="@xml/provider_paths" />
+76-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:68:17-55
+77        </provider>
+78
+79        <meta-data
+79-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/prashantpatil/.gradle/caches/transforms-3/a16f691fc77b3ef9f9a2ba156f61d521/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:11:9-13:43
+80            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+80-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/prashantpatil/.gradle/caches/transforms-3/a16f691fc77b3ef9f9a2ba156f61d521/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:12:13-84
+81            android:value="GlideModule" />
+81-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/prashantpatil/.gradle/caches/transforms-3/a16f691fc77b3ef9f9a2ba156f61d521/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:13:13-40
+82
+83        <receiver
+83-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:28:9-35:20
+84            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+84-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:29:13-78
+85            android:exported="true"
+85-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:30:13-36
+86            android:permission="com.google.android.c2dm.permission.SEND" >
+86-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:31:13-73
+87            <intent-filter>
+87-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:32:13-34:29
+88                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+88-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:33:17-81
+88-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:33:25-78
+89            </intent-filter>
+90        </receiver>
+91        <!--
+92             FirebaseMessagingService performs security checks at runtime,
+93             but set to not exported to explicitly avoid allowing another app to call it.
+94        -->
+95        <service
+95-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:41:9-48:19
+96            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+96-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:42:13-82
+97            android:directBootAware="true"
+97-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:43:13-43
+98            android:exported="false" >
+98-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:44:13-37
+99            <intent-filter android:priority="-500" >
+99-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:56:13-58:29
+100                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+100-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:57:17-78
+100-->/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/AndroidManifest.xml:57:25-75
+101            </intent-filter>
+102        </service>
+103        <service
+103-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:49:9-55:19
+104            android:name="com.google.firebase.components.ComponentDiscoveryService"
+104-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:50:13-84
+105            android:directBootAware="true"
+105-->[com.google.firebase:firebase-common:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/d41b618ac481c29dbd08ad6b33977309/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+106            android:exported="false" >
+106-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:51:13-37
+107            <meta-data
+107-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:52:13-54:85
+108                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+108-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:53:17-119
+109                android:value="com.google.firebase.components.ComponentRegistrar" />
+109-->[com.google.firebase:firebase-messaging:23.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/642e57128d16e36067ec17665af5db69/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:54:17-82
+110            <meta-data
+110-->[com.google.android.gms:play-services-measurement-api:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/ba528b1ce3d7a028c54b71ff76cd4314/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:30:13-32:85
+111                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+111-->[com.google.android.gms:play-services-measurement-api:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/ba528b1ce3d7a028c54b71ff76cd4314/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:31:17-139
+112                android:value="com.google.firebase.components.ComponentRegistrar" />
+112-->[com.google.android.gms:play-services-measurement-api:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/ba528b1ce3d7a028c54b71ff76cd4314/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:32:17-82
+113            <meta-data
+113-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8f7ef8a3be829fd674a25efdd538b3d0/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+114                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+114-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8f7ef8a3be829fd674a25efdd538b3d0/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+115                android:value="com.google.firebase.components.ComponentRegistrar" />
+115-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8f7ef8a3be829fd674a25efdd538b3d0/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+116            <meta-data
+116-->[com.google.firebase:firebase-installations:17.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/72f7851469316e184db7c986a606ee67/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+117                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+117-->[com.google.firebase:firebase-installations:17.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/72f7851469316e184db7c986a606ee67/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+118                android:value="com.google.firebase.components.ComponentRegistrar" />
+118-->[com.google.firebase:firebase-installations:17.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/72f7851469316e184db7c986a606ee67/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+119        </service>
+120
+121        <activity
+121-->[com.google.android.gms:play-services-auth:19.2.0] /Users/prashantpatil/.gradle/caches/transforms-3/03ff06b44eea7604edca87a67059a5d0/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:23:9-27:75
+122            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+122-->[com.google.android.gms:play-services-auth:19.2.0] /Users/prashantpatil/.gradle/caches/transforms-3/03ff06b44eea7604edca87a67059a5d0/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:24:13-93
+123            android:excludeFromRecents="true"
+123-->[com.google.android.gms:play-services-auth:19.2.0] /Users/prashantpatil/.gradle/caches/transforms-3/03ff06b44eea7604edca87a67059a5d0/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:25:13-46
+124            android:exported="false"
+124-->[com.google.android.gms:play-services-auth:19.2.0] /Users/prashantpatil/.gradle/caches/transforms-3/03ff06b44eea7604edca87a67059a5d0/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:26:13-37
+125            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+125-->[com.google.android.gms:play-services-auth:19.2.0] /Users/prashantpatil/.gradle/caches/transforms-3/03ff06b44eea7604edca87a67059a5d0/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:27:13-72
+126        <!--
+127            Service handling Google Sign-In user revocation. For apps that do not integrate with
+128            Google Sign-In, this service will never be started.
+129        -->
+130        <service
+130-->[com.google.android.gms:play-services-auth:19.2.0] /Users/prashantpatil/.gradle/caches/transforms-3/03ff06b44eea7604edca87a67059a5d0/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:33:9-37:51
+131            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+131-->[com.google.android.gms:play-services-auth:19.2.0] /Users/prashantpatil/.gradle/caches/transforms-3/03ff06b44eea7604edca87a67059a5d0/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:34:13-89
+132            android:exported="true"
+132-->[com.google.android.gms:play-services-auth:19.2.0] /Users/prashantpatil/.gradle/caches/transforms-3/03ff06b44eea7604edca87a67059a5d0/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:35:13-36
+133            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+133-->[com.google.android.gms:play-services-auth:19.2.0] /Users/prashantpatil/.gradle/caches/transforms-3/03ff06b44eea7604edca87a67059a5d0/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:36:13-107
+134            android:visibleToInstantApps="true" />
+134-->[com.google.android.gms:play-services-auth:19.2.0] /Users/prashantpatil/.gradle/caches/transforms-3/03ff06b44eea7604edca87a67059a5d0/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:37:13-48
+135
+136        <activity
+136-->[com.google.android.gms:play-services-base:17.5.0] /Users/prashantpatil/.gradle/caches/transforms-3/7dc24953c6e437a4a7bdb7df5e437c52/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+137            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+137-->[com.google.android.gms:play-services-base:17.5.0] /Users/prashantpatil/.gradle/caches/transforms-3/7dc24953c6e437a4a7bdb7df5e437c52/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+138            android:exported="false"
+138-->[com.google.android.gms:play-services-base:17.5.0] /Users/prashantpatil/.gradle/caches/transforms-3/7dc24953c6e437a4a7bdb7df5e437c52/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+139            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+139-->[com.google.android.gms:play-services-base:17.5.0] /Users/prashantpatil/.gradle/caches/transforms-3/7dc24953c6e437a4a7bdb7df5e437c52/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+140
+141        <receiver
+141-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:29:9-33:20
+142            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+142-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:30:13-85
+143            android:enabled="true"
+143-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:31:13-35
+144            android:exported="false" >
+144-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:32:13-37
+145        </receiver>
+146
+147        <service
+147-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:35:9-38:40
+148            android:name="com.google.android.gms.measurement.AppMeasurementService"
+148-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:36:13-84
+149            android:enabled="true"
+149-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:37:13-35
+150            android:exported="false" />
+150-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:38:13-37
+151        <service
+151-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:39:9-43:72
+152            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+152-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:40:13-87
+153            android:enabled="true"
+153-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:41:13-35
+154            android:exported="false"
+154-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:42:13-37
+155            android:permission="android.permission.BIND_JOB_SERVICE" />
+155-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/8d452de73493575c56efdff8bc21116a/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:43:13-69
+156
+157        <provider
+157-->[com.google.firebase:firebase-common:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/d41b618ac481c29dbd08ad6b33977309/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+158            android:name="com.google.firebase.provider.FirebaseInitProvider"
+158-->[com.google.firebase:firebase-common:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/d41b618ac481c29dbd08ad6b33977309/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+159            android:authorities="com.quadvision.anydel.backend.firebaseinitprovider"
+159-->[com.google.firebase:firebase-common:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/d41b618ac481c29dbd08ad6b33977309/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+160            android:directBootAware="true"
+160-->[com.google.firebase:firebase-common:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/d41b618ac481c29dbd08ad6b33977309/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+161            android:exported="false"
+161-->[com.google.firebase:firebase-common:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/d41b618ac481c29dbd08ad6b33977309/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+162            android:initOrder="100" />
+162-->[com.google.firebase:firebase-common:20.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/d41b618ac481c29dbd08ad6b33977309/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+163
+164        <meta-data
+164-->[com.google.android.gms:play-services-basement:17.5.0] /Users/prashantpatil/.gradle/caches/transforms-3/363d093249efd32bdd95e2f5f21b813d/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+165            android:name="com.google.android.gms.version"
+165-->[com.google.android.gms:play-services-basement:17.5.0] /Users/prashantpatil/.gradle/caches/transforms-3/363d093249efd32bdd95e2f5f21b813d/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+166            android:value="@integer/google_play_services_version" />
+166-->[com.google.android.gms:play-services-basement:17.5.0] /Users/prashantpatil/.gradle/caches/transforms-3/363d093249efd32bdd95e2f5f21b813d/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+167
+168        <provider
+168-->[androidx.emoji2:emoji2:1.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/5c99b39c7a8cc1f8d60aad04e1fcb7c8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+169            android:name="androidx.startup.InitializationProvider"
+169-->[androidx.emoji2:emoji2:1.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/5c99b39c7a8cc1f8d60aad04e1fcb7c8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+170            android:authorities="com.quadvision.anydel.backend.androidx-startup"
+170-->[androidx.emoji2:emoji2:1.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/5c99b39c7a8cc1f8d60aad04e1fcb7c8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+171            android:exported="false" >
+171-->[androidx.emoji2:emoji2:1.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/5c99b39c7a8cc1f8d60aad04e1fcb7c8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+172            <meta-data
+172-->[androidx.emoji2:emoji2:1.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/5c99b39c7a8cc1f8d60aad04e1fcb7c8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+173                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+173-->[androidx.emoji2:emoji2:1.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/5c99b39c7a8cc1f8d60aad04e1fcb7c8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+174                android:value="androidx.startup" />
+174-->[androidx.emoji2:emoji2:1.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/5c99b39c7a8cc1f8d60aad04e1fcb7c8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+175            <meta-data
+175-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/prashantpatil/.gradle/caches/transforms-3/530e328c40b12a9c7795ae481d591529/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+176                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+176-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/prashantpatil/.gradle/caches/transforms-3/530e328c40b12a9c7795ae481d591529/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+177                android:value="androidx.startup" />
+177-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/prashantpatil/.gradle/caches/transforms-3/530e328c40b12a9c7795ae481d591529/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+178        </provider>
+179
+180        <service
+180-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/9dc2b4ac75048802a7820cccd525aa2f/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+181            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+181-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/9dc2b4ac75048802a7820cccd525aa2f/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+182            android:exported="false" >
+182-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/9dc2b4ac75048802a7820cccd525aa2f/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+183            <meta-data
+183-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/9dc2b4ac75048802a7820cccd525aa2f/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+184                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+184-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/9dc2b4ac75048802a7820cccd525aa2f/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+185                android:value="cct" />
+185-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/9dc2b4ac75048802a7820cccd525aa2f/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+186        </service>
+187        <service
+187-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/cd72c4f85da8f69de0f4443769252f57/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+188            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+188-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/cd72c4f85da8f69de0f4443769252f57/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+189            android:exported="false"
+189-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/cd72c4f85da8f69de0f4443769252f57/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+190            android:permission="android.permission.BIND_JOB_SERVICE" >
+190-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/cd72c4f85da8f69de0f4443769252f57/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+191        </service>
+192
+193        <receiver
+193-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/cd72c4f85da8f69de0f4443769252f57/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+194            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+194-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/cd72c4f85da8f69de0f4443769252f57/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+195            android:exported="false" />
+195-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/prashantpatil/.gradle/caches/transforms-3/cd72c4f85da8f69de0f4443769252f57/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+196    </application>
+197
+198</manifest>

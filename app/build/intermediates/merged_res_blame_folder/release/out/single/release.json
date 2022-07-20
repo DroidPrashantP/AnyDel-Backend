@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xxxhdpi_ic_image_placeholder.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_image_placeholder.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_package_status_selection_dialog.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_package_status_selection_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_package_attach_image_item.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_package_attach_image_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_radion_btn_selected.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_radion_btn_selected.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_rating_alert.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_rating_alert.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_btn_background_drawable.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/btn_background_drawable.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xhdpi_ic_app_anydel_backend_logo.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xhdpi/ic_app_anydel_backend_logo.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_card_selected_bg.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/card_selected_bg.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_wallet.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_wallet.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_edit_status.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_edit_status.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_btn_custom_bg_drawable.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/btn_custom_bg_drawable.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_corner_background_drawable.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/corner_background_drawable.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_fragment_cancel_delivery.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_cancel_delivery.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-mdpi_ic_app_anydel_backend_logo.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-mdpi/ic_app_anydel_backend_logo.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_fragment_home.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/raw_anydel.pem.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/raw/anydel.pem"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xhdpi_ic_default_user.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xhdpi/ic_default_user.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_fragment_navigation_drawer.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xxhdpi_ic_app_anydel_backend_logo.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_app_anydel_backend_logo.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_glide_rectangle_holder_bg.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/glide_rectangle_holder_bg.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_actionbar_background_drawable.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/actionbar_background_drawable.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_pending_delivery_item.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_pending_delivery_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-ldpi_ic_default_user.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-ldpi/ic_default_user.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_activity_main.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_settings.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_city_selection_dialog.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_city_selection_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_round_correct.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_round_correct.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_profile.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-hdpi_ic_default_user.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-hdpi/ic_default_user.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_anydel_app_notification.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_anydel_app_notification.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_spinner_background.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-anydpi-v24_ic_image_placeholder.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_image_placeholder.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_activity_login.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_round_cancel.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_round_cancel.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_fragment_package_detail.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_package_detail.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_delivery_completed.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_delivery_completed.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_rating_dialog.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_rating_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xhdpi_ic_image_placeholder.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xhdpi/ic_image_placeholder.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_activity_launcher.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_activity_home.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/raw_address_lottie.json.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/raw/address_lottie.json"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_custom_progress_dialog.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_custom_progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/raw_certificates.pem.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/raw/certificates.pem"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-mdpi_ic_image_placeholder.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-mdpi/ic_image_placeholder.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_empty_view.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_empty_view.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xxhdpi_ic_default_user.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_default_user.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_glide_circular_holder_bg.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/glide_circular_holder_bg.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_delivery_canceled.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_delivery_canceled.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-hdpi_ic_image_placeholder.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-hdpi/ic_image_placeholder.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_custom_app_dialog.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_custom_app_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xxxhdpi_ic_app_anydel_backend_logo.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_app_anydel_backend_logo.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_card_unselected_color.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/card_unselected_color.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-ldpi_ic_app_anydel_backend_logo.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-ldpi/ic_app_anydel_backend_logo.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_progress_bar_layout.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/progress_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-anydpi-v24_ic_app_anydel_backend_logo.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_app_anydel_backend_logo.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_edit_text_background_drawable.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/edit_text_background_drawable.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_action_bar_layout.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/action_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xxhdpi_ic_image_placeholder.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_image_placeholder.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_package_size_change_dialog.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_package_size_change_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_fragment_delivery_completed.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_delivery_completed.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_fragment_delivery_detail.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_delivery_detail.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/color_btn_text_color.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/color/btn_text_color.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-anydpi-v24_ic_default_user.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_default_user.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_home_activity_drawer_content.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_home_activity_drawer_content.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_track_delivery_stepper_item.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_track_delivery_stepper_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_city_list_item.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_city_list_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-ldpi_ic_image_placeholder.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-ldpi/ic_image_placeholder.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_delivery_completed_item.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_delivery_completed_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_rating_corner_bg_drawable.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/rating_corner_bg_drawable.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_contact_number_dialog.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_contact_number_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_navigation_drawer_icon.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_navigation_drawer_icon.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/xml_provider_paths.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_user_picture_circular_background.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/user_picture_circular_background.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_ic_rb_btn_unselected.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/ic_rb_btn_unselected.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable_image_background_drawable.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/drawable/image_background_drawable.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-mdpi_ic_default_user.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-mdpi/ic_default_user.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_fragment_track_package_detail.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_track_package_detail.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_layout_status_list_item.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_status_list_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-hdpi_ic_app_anydel_backend_logo.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-hdpi/ic_app_anydel_backend_logo.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/drawable-xxxhdpi_ic_default_user.png.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_default_user.png"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/merged_res/release/layout_fragment_profile.xml.flat",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_profile.xml"
+    }
+]

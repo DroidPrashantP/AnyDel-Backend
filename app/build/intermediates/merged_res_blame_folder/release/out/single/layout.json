@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_delivery_detail.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_delivery_detail.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_navigation_drawer.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/action_bar_layout.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/action_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_city_list_item.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_city_list_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_package_size_change_dialog.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_package_size_change_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_package_attach_image_item.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_package_attach_image_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_package_status_selection_dialog.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_package_status_selection_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_delivery_completed.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_delivery_completed.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_home.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_rating_dialog.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_rating_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_city_selection_dialog.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_city_selection_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_pending_delivery_item.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_pending_delivery_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_track_delivery_stepper_item.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_track_delivery_stepper_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_home_activity_drawer_content.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_home_activity_drawer_content.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_track_package_detail.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_track_package_detail.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_status_list_item.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_status_list_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_package_detail.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_package_detail.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/progress_bar_layout.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/progress_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_custom_app_dialog.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_custom_app_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_custom_progress_dialog.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_custom_progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_delivery_completed_item.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_delivery_completed_item.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_cancel_delivery.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_cancel_delivery.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_empty_view.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_empty_view.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_launcher.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/layout_contact_number_dialog.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/layout_contact_number_dialog.xml"
+    },
+    {
+        "merged": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_profile.xml",
+        "source": "/Users/prashantpatil/Ravi/AnyDel-Backend/app/src/main/res/layout/fragment_profile.xml"
+    }
+]

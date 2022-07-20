@@ -1,0 +1,150 @@
+com/quadvision/anydel/backend/databinding/FragmentDeliveryCompletedBinding.java
+ com.quadvision.anydel.backend.databinding.FragmentDeliveryCompletedBinding
+com/quadvision/anydel/backend/databinding/LayoutCustomProgressDialogBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutCustomProgressDialogBinding
+com/quadvision/anydel/backend/databinding/ActivityMainBinding.java
+ com.quadvision.anydel.backend.databinding.ActivityMainBinding
+com/quadvision/anydel/backend/glide/GlideRequest.java
+ com.quadvision.anydel.backend.glide.GlideRequest
+com/quadvision/anydel/backend/ui/home/HomeActivity_ViewBinding.java
+ com.quadvision.anydel.backend.ui.home.HomeActivity_ViewBinding
+com/quadvision/anydel/backend/ui/detail/PackageDetailFragment_ViewBinding.java
+ com.quadvision.anydel.backend.ui.detail.PackageDetailFragment_ViewBinding
+ com.quadvision.anydel.backend.ui.detail.PackageDetailFragment_ViewBinding$1
+ com.quadvision.anydel.backend.ui.detail.PackageDetailFragment_ViewBinding$2
+com/quadvision/anydel/backend/databinding/LayoutCustomAppDialogBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutCustomAppDialogBinding
+com/quadvision/anydel/backend/ui/delivery/DeliveryCompletedItemListAdapter$PickAddressItemViewHolder_ViewBinding.java
+ com.quadvision.anydel.backend.ui.delivery.DeliveryCompletedItemListAdapter$PickAddressItemViewHolder_ViewBinding
+com/quadvision/anydel/backend/ui/home/CityItemListAdapter$CityItemViewHolder_ViewBinding.java
+ com.quadvision.anydel.backend.ui.home.CityItemListAdapter$CityItemViewHolder_ViewBinding
+com/quadvision/anydel/backend/databinding/FragmentCancelDeliveryBinding.java
+ com.quadvision.anydel.backend.databinding.FragmentCancelDeliveryBinding
+com/quadvision/anydel/backend/databinding/ActivityHomeBinding.java
+ com.quadvision.anydel.backend.databinding.ActivityHomeBinding
+com/quadvision/anydel/backend/databinding/LayoutHomeActivityDrawerContentBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutHomeActivityDrawerContentBinding
+com/quadvision/anydel/backend/databinding/LayoutPackageAttachImageItemBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutPackageAttachImageItemBinding
+com/quadvision/anydel/backend/glide/UnsafeOkHttpClient.java
+ com.quadvision.anydel.backend.glide.UnsafeOkHttpClient
+ com.quadvision.anydel.backend.glide.UnsafeOkHttpClient$1
+com/quadvision/anydel/backend/databinding/FragmentHomeBinding.java
+ com.quadvision.anydel.backend.databinding.FragmentHomeBinding
+com/quadvision/anydel/backend/databinding/ProgressBarLayoutBinding.java
+ com.quadvision.anydel.backend.databinding.ProgressBarLayoutBinding
+com/quadvision/anydel/backend/ui/detail/DeliveryDetailFragment_ViewBinding.java
+ com.quadvision.anydel.backend.ui.detail.DeliveryDetailFragment_ViewBinding
+ com.quadvision.anydel.backend.ui.detail.DeliveryDetailFragment_ViewBinding$1
+ com.quadvision.anydel.backend.ui.detail.DeliveryDetailFragment_ViewBinding$2
+ com.quadvision.anydel.backend.ui.detail.DeliveryDetailFragment_ViewBinding$3
+ com.quadvision.anydel.backend.ui.detail.DeliveryDetailFragment_ViewBinding$4
+ com.quadvision.anydel.backend.ui.detail.DeliveryDetailFragment_ViewBinding$5
+com/quadvision/anydel/backend/glide/MyGlideModule.java
+ com.quadvision.anydel.backend.glide.MyGlideModule
+com/quadvision/anydel/backend/ui/detail/TrackPackageDetailFragment_ViewBinding.java
+ com.quadvision.anydel.backend.ui.detail.TrackPackageDetailFragment_ViewBinding
+ com.quadvision.anydel.backend.ui.detail.TrackPackageDetailFragment_ViewBinding$1
+ com.quadvision.anydel.backend.ui.detail.TrackPackageDetailFragment_ViewBinding$2
+ com.quadvision.anydel.backend.ui.detail.TrackPackageDetailFragment_ViewBinding$3
+com/quadvision/anydel/backend/ui/delivery/CancelDeliveryFragment_ViewBinding.java
+ com.quadvision.anydel.backend.ui.delivery.CancelDeliveryFragment_ViewBinding
+ com.quadvision.anydel.backend.ui.delivery.CancelDeliveryFragment_ViewBinding$1
+com/quadvision/anydel/backend/ui/detail/TrackStepperItemListAdapter$TrackStepperItemViewHolder_ViewBinding.java
+ com.quadvision.anydel.backend.ui.detail.TrackStepperItemListAdapter$TrackStepperItemViewHolder_ViewBinding
+com/quadvision/anydel/backend/databinding/LayoutRatingDialogBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutRatingDialogBinding
+com/quadvision/anydel/backend/databinding/LayoutCityListItemBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutCityListItemBinding
+com/quadvision/anydel/backend/ui/delivery/PendingDeliveryItemListAdapter$PickAddressItemViewHolder_ViewBinding.java
+ com.quadvision.anydel.backend.ui.delivery.PendingDeliveryItemListAdapter$PickAddressItemViewHolder_ViewBinding
+com/quadvision/anydel/backend/databinding/LayoutStatusListItemBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutStatusListItemBinding
+com/quadvision/anydel/backend/glide/GlideRequests.java
+ com.quadvision.anydel.backend.glide.GlideRequests
+com/quadvision/anydel/backend/glide/GlideApp.java
+ com.quadvision.anydel.backend.glide.GlideApp
+com/bumptech/glide/GeneratedRequestManagerFactory.java
+ com.bumptech.glide.GeneratedRequestManagerFactory
+com/quadvision/anydel/backend/ui/detail/AssignedToOptionListAdapter$AssignedToOptionItemViewHolder_ViewBinding.java
+ com.quadvision.anydel.backend.ui.detail.AssignedToOptionListAdapter$AssignedToOptionItemViewHolder_ViewBinding
+com/bumptech/glide/GeneratedAppGlideModuleImpl.java
+ com.bumptech.glide.GeneratedAppGlideModuleImpl
+com/quadvision/anydel/backend/databinding/ActionBarLayoutBinding.java
+ com.quadvision.anydel.backend.databinding.ActionBarLayoutBinding
+com/quadvision/anydel/backend/ui/home/NavigationDrawerFragment_ViewBinding.java
+ com.quadvision.anydel.backend.ui.home.NavigationDrawerFragment_ViewBinding
+ com.quadvision.anydel.backend.ui.home.NavigationDrawerFragment_ViewBinding$1
+ com.quadvision.anydel.backend.ui.home.NavigationDrawerFragment_ViewBinding$2
+ com.quadvision.anydel.backend.ui.home.NavigationDrawerFragment_ViewBinding$3
+com/quadvision/anydel/backend/utils/FileUtils.java
+ com.quadvision.anydel.backend.utils.FileUtils
+com/quadvision/anydel/backend/utils/TouchImageView.java
+ com.quadvision.anydel.backend.utils.TouchImageView
+ com.quadvision.anydel.backend.utils.TouchImageView$1
+ com.quadvision.anydel.backend.utils.TouchImageView$CompatScroller
+ com.quadvision.anydel.backend.utils.TouchImageView$DoubleTapZoom
+ com.quadvision.anydel.backend.utils.TouchImageView$FixedPixel
+ com.quadvision.anydel.backend.utils.TouchImageView$Fling
+ com.quadvision.anydel.backend.utils.TouchImageView$GestureListener
+ com.quadvision.anydel.backend.utils.TouchImageView$OnTouchImageViewListener
+ com.quadvision.anydel.backend.utils.TouchImageView$PrivateOnTouchListener
+ com.quadvision.anydel.backend.utils.TouchImageView$ScaleListener
+ com.quadvision.anydel.backend.utils.TouchImageView$State
+ com.quadvision.anydel.backend.utils.TouchImageView$ZoomVariables
+com/quadvision/anydel/backend/glide/GlideOptions.java
+ com.quadvision.anydel.backend.glide.GlideOptions
+com/quadvision/anydel/backend/ui/home/HomeFragment_ViewBinding.java
+ com.quadvision.anydel.backend.ui.home.HomeFragment_ViewBinding
+ com.quadvision.anydel.backend.ui.home.HomeFragment_ViewBinding$1
+ com.quadvision.anydel.backend.ui.home.HomeFragment_ViewBinding$2
+ com.quadvision.anydel.backend.ui.home.HomeFragment_ViewBinding$3
+ com.quadvision.anydel.backend.ui.home.HomeFragment_ViewBinding$4
+ com.quadvision.anydel.backend.ui.home.HomeFragment_ViewBinding$5
+com/quadvision/anydel/backend/databinding/LayoutDeliveryCompletedItemBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutDeliveryCompletedItemBinding
+com/quadvision/anydel/backend/databinding/ActivityLauncherBinding.java
+ com.quadvision.anydel.backend.databinding.ActivityLauncherBinding
+com/quadvision/anydel/backend/ui/login/ui/login/LoginActivity_ViewBinding.java
+ com.quadvision.anydel.backend.ui.login.ui.login.LoginActivity_ViewBinding
+com/quadvision/anydel/backend/ui/delivery/CompletedDeliveryFragment_ViewBinding.java
+ com.quadvision.anydel.backend.ui.delivery.CompletedDeliveryFragment_ViewBinding
+ com.quadvision.anydel.backend.ui.delivery.CompletedDeliveryFragment_ViewBinding$1
+com/quadvision/anydel/backend/databinding/LayoutContactNumberDialogBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutContactNumberDialogBinding
+com/quadvision/anydel/backend/data/api/BasicAuthInterceptor.java
+ com.quadvision.anydel.backend.data.api.BasicAuthInterceptor
+com/quadvision/anydel/backend/databinding/LayoutPendingDeliveryItemBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutPendingDeliveryItemBinding
+com/quadvision/anydel/backend/ui/home/PackageStatusItemListAdapter$CityItemViewHolder_ViewBinding.java
+ com.quadvision.anydel.backend.ui.home.PackageStatusItemListAdapter$CityItemViewHolder_ViewBinding
+com/quadvision/anydel/backend/databinding/LayoutCitySelectionDialogBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutCitySelectionDialogBinding
+com/quadvision/anydel/backend/databinding/FragmentProfileBinding.java
+ com.quadvision.anydel.backend.databinding.FragmentProfileBinding
+com/quadvision/anydel/backend/databinding/FragmentTrackPackageDetailBinding.java
+ com.quadvision.anydel.backend.databinding.FragmentTrackPackageDetailBinding
+com/quadvision/anydel/backend/utils/CustomTrust.java
+ com.quadvision.anydel.backend.utils.CustomTrust
+com/quadvision/anydel/backend/databinding/ActivityLoginBinding.java
+ com.quadvision.anydel.backend.databinding.ActivityLoginBinding
+com/quadvision/anydel/backend/databinding/LayoutPackageStatusSelectionDialogBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutPackageStatusSelectionDialogBinding
+com/quadvision/anydel/backend/ui/profile/ProfileFragment_ViewBinding.java
+ com.quadvision.anydel.backend.ui.profile.ProfileFragment_ViewBinding
+ com.quadvision.anydel.backend.ui.profile.ProfileFragment_ViewBinding$1
+ com.quadvision.anydel.backend.ui.profile.ProfileFragment_ViewBinding$2
+com/quadvision/anydel/backend/databinding/FragmentPackageDetailBinding.java
+ com.quadvision.anydel.backend.databinding.FragmentPackageDetailBinding
+com/quadvision/anydel/backend/BuildConfig.java
+ com.quadvision.anydel.backend.BuildConfig
+com/quadvision/anydel/backend/databinding/FragmentNavigationDrawerBinding.java
+ com.quadvision.anydel.backend.databinding.FragmentNavigationDrawerBinding
+com/quadvision/anydel/backend/databinding/LayoutTrackDeliveryStepperItemBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutTrackDeliveryStepperItemBinding
+com/quadvision/anydel/backend/databinding/FragmentDeliveryDetailBinding.java
+ com.quadvision.anydel.backend.databinding.FragmentDeliveryDetailBinding
+com/quadvision/anydel/backend/databinding/LayoutPackageSizeChangeDialogBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutPackageSizeChangeDialogBinding
+com/quadvision/anydel/backend/databinding/LayoutEmptyViewBinding.java
+ com.quadvision.anydel.backend.databinding.LayoutEmptyViewBinding

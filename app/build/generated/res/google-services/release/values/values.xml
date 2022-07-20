@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">588813185019-80dlj5p38oaqhqie3ut8i7aje66a2vn8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">588813185019</string>
+    <string name="google_api_key" translatable="false">AIzaSyBa-FSZd_cBrBQI6HqP7UrIaECmapp7f-w</string>
+    <string name="google_app_id" translatable="false">1:588813185019:android:5437319548e92ece29255e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBa-FSZd_cBrBQI6HqP7UrIaECmapp7f-w</string>
+    <string name="google_storage_bucket" translatable="false">adl-pushapi-test.appspot.com</string>
+    <string name="project_id" translatable="false">adl-pushapi-test</string>
+</resources>
