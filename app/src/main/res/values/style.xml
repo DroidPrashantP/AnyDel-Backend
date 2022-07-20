@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MaterialThemeNoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_color</item>
+        <item name="colorAccent">@color/primary_color</item>
+        <item name="actionBarColor">@color/primary_color</item>
+        <item name="android:actionMenuTextColor">@color/white</item>
+        <item name="android:dropDownListViewStyle">@style/PopupMenuListView</item>
+        <item name="android:actionBarWidgetTheme">@style/PopupMenuTextView</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Example</item>
+        <item name="actionOverflowMenuStyle">@style/OverflowMenu</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <!-- Change Overflow Menu ListView Text Size and Text Size -->
+    <style name="PopupMenuTextView" parent="@android:style/Theme.Holo.Light">
+        <item name="android:textColor">#494949</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/dimen_24sp</item>
+    </style>
+
+    <style name="PopupMenu.Example" parent="@android:style/Widget.Holo.Light.ListPopupWindow">
+        <item name="android:popupBackground">#efefef</item>
+    </style>
+
+    <style name="OverflowMenu" parent="Widget.AppCompat.PopupMenu.Overflow">
+        <!-- Required for pre-Lollipop. -->
+        <item name="overlapAnchor">false</item>
+
+        <item name="android:dropDownVerticalOffset">4.0dip</item>
+
+    </style>
+
+    <!-- Change Overflow Menu ListView Divider Property -->
+    <style name="PopupMenuListView" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:divider">#B1BCBE</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:columnWidth">@dimen/dimen_60dp</item>
+    </style>
+
+    <style name="Theme.AnyDel.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="OTPEditTextStyle" parent="ConstraintWrapStyle">
+        <item name="android:width">@dimen/dimen_60dp</item>
+        <item name="android:height">@dimen/dimen_60dp</item>
+        <item name="android:textColor">@color/text_primary_color</item>
+        <item name="android:maxLength">1</item>
+        <item name="android:layout_margin">@dimen/dimen_8dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:inputType">phone</item>
+        <item name="android:padding">@dimen/dimen_12dp</item>
+        <item name="android:textSize">@dimen/dimen_24sp</item>
+        <item name="android:background">@drawable/edit_text_background_drawable</item>
+    </style>
+
+    <style name="EditTextStyle" parent="ConstraintWrapStyle">
+        <item name="android:textColor">@color/text_primary_color</item>
+        <item name="android:textColorHint">@color/text_secondary_color</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:padding">@dimen/dimen_8dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/dimen_16sp</item>
+        <item name="android:background">@drawable/edit_text_background_drawable</item>
+    </style>
+
+    <style name="EditTextStyleWithIgnoreSpace" parent="ConstraintWrapStyle">
+        <item name="android:textColor">@color/text_primary_color</item>
+        <item name="android:textColorHint">@color/text_secondary_color</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:padding">@dimen/dimen_8dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/dimen_16sp</item>
+        <item name="android:background">@drawable/edit_text_background_drawable</item>
+        <item name="android:digits">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890@#.</item>
+        <item name="android:inputType">textFilter|textCapSentences</item>
+    </style>
+
+    <style name="EditTextStyleWithRound" parent="ConstraintWrapStyle">
+        <item name="android:textColor">@color/text_primary_color</item>
+        <item name="android:textColorHint">@color/text_secondary_color</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollbars">horizontal</item>
+        <item name="android:padding">@dimen/dimen_8dp</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textSize">@dimen/dimen_16sp</item>
+        <item name="android:background">@drawable/edit_text_background_drawable</item>
+    </style>
+
+    <style name="ProgressBarBlue" parent="Theme.AnyDelBackend.ProgressBar"/>
+
+
+    <style name="Theme.AnyDelBackend.ProgressBar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:visibility">visible</item>
+    </style>
+
+
+    <style name="NoContentOverlayTheme" parent="Theme.AnyDelBackend">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <!-- Feed -->
+    <style name="WrapContent">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ConstraintWrapStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ConstraintMatchStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+    </style>
+
+    <style name="DividerViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dimen_1dp</item>
+    </style>
+
+    <!-- MatchParent -->
+    <style name="MatchParent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <!-- FillParent -->
+    <style name="FillParent">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <!-- MatchParentWrapContent -->
+    <style name="MatchParentWrapContent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="HomeIconStyle">
+        <item name="android:layout_width">@dimen/dimen_40dp</item>
+        <item name="android:layout_height">@dimen/dimen_40dp</item>
+        <item name="android:padding">@dimen/dimen_16dp</item>
+        <item name="android:background">@drawable/image_background_drawable</item>
+    </style>
+
+    <style name="Widget.App.Spinner" parent="@style/Widget.AppCompat.Spinner">
+        <item name="overlapAnchor">true</item>
+        <item name="android:background">@drawable/spinner_background</item>
+    </style>
+
+    <style name="CardViewStyleWrap" parent="CardView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="cardCornerRadius">@dimen/dimen_8dp</item>
+        <item name="cardElevation">@dimen/dimen_8dp</item>
+        <item name="cardBackgroundColor">@color/cardBackgroundColor</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+
+    <style name="NumberPickerTextColorStyle">
+        <item name="android:textColorPrimary">@color/text_primary_color</item>
+    </style>
+
+
+    <style name="ChipStyle" parent="Widget.MaterialComponents.Chip.Choice">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/dimen_44dp</item>
+    </style>
+</resources>
